@@ -1,0 +1,126 @@
+.header{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 10px;
+}
+.header_left{
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+}
+.header_right{
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+}
+.navigator{
+    display:flex;
+    justify-content: space-around;
+    padding: 10px;
+    border-top: 5px solid rebeccapurple;
+    border-bottom: 5px solid rebeccapurple;
+}
+h1{
+    font-family: Tahoma;
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+    padding-bottom: 20px ;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    justify-content: center;
+}
+.sub_header{
+    display: flex;
+    justify-content: space-around;
+}
+.author{
+    padding-bottom: 10px;
+}
+.social_icons{
+    display:flex;
+    justify-content: space-around;
+}
+.main_img{
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+    padding-bottom: 20px ;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+h2, p{
+    font-family: Cochin ;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    justify-content: flex-start;
+}
+.container_info{
+    border: 5px solid rebeccapurple;
+    display:flex;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+
+}
+h3{
+    display:flex;
+    justify-content: center;
+}
+.footer{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 10px;
+}
+.logo{
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+}
+.footer_links{
+    padding: 20px;
+}
+/* =========
+Contact
+===========*/
+fieldset{
+    font-family: Tahoma;
+    border: 5px solid rebeccapurple;
+    justify-content: center;
+    padding: 50px;
+    margin-top: 100px;
+    position:relative;
+    margin-left: 250px;
+    width: 400px;
+}
+.fav_language{
+    margin: 0px;
+    padding: 10px;
+}
+textarea{
+    width:300px;
+    height: 200px;
+}
+button{
+    margin:10px;
+}
+
+/* ===============
+Projects
+=================*/
+
+#player div ID{
+    border: 5px solid rebeccapurple;
+    padding: 10px;
+    padding-bottom: 20px ;
+    margin-left: 150px;
+    margin-right: 150px;
+    display: flex;
+    justify-content: center;
+}
